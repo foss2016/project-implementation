@@ -7,11 +7,9 @@ This is the implementation of our project as part of the FOSS Course
 
 ## How to Play
 
-Although you may no longer play on [fullscreenmario.com](http://www.fullscreenmario.com), it is easy to play your own copy.
+It is easy to play your own copy.
 
-#### Newcomers (non-coders)
-
-[Download the latest release](https://github.com/FullScreenShenanigans/FullScreenMario/releases) of this project, extract that onto your computer, and open **index.html** in a browser (preferably Google Chrome). That's it!
+Download  this project, extract that onto your computer, and open **index.html** in a browser (preferably Google Chrome). That's it!
 
 #### In your own site
 
