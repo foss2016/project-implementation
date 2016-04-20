@@ -13,7 +13,7 @@ Download  this project, extract that onto your computer, and open **index.html**
 
 #### In your own site
 
-Upload the latest release of FullScreenMario (or your built version) to your FTP server. 
+Upload the latest release of FullScreenMario (or your built version) to your FTP server.
 
 
 ## Developing
