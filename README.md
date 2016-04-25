@@ -18,7 +18,7 @@ Upload the latest release of FullScreenMario (or your built version) to your FTP
 
 ## Developing
 
-#### Build Process
+##### Build Process
 
 FullScreenMario uses [Grunt](http://gruntjs.com/) to automate building, which requires [Node.js](http://node.js.org). The process is straightforward; see [Grunt's help page](http://gruntjs.com/getting-started).
 
